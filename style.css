@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #7A7D80		;
+}
+
+header {
+    background-color: #333;
+    color: darkgrey;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav ul li a {
+    color: darkgrey;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.main-banner img {
+    width: 100%;
+    height: auto;
+}
+
+.about-us, .services, .gallery, .contact {
+    padding: 2px;
+    background-color: darkgrey;
+    margin: 2px 0;
+}
+
+footer {
+    background-color: #333;
+    color: darkgrey;
+    text-align: center;
+    padding: 10px 0;
+}
